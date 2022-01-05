@@ -5,10 +5,9 @@
 - 📫 How to reach me ...
 
 
-# 👋 Hi, I'm Irfan Maulana
+# 👋 Hi, I'm Mrliputo
 
-You may know me as `mazipan`, web developer from 🇮🇩.
-
+ 
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=mrliputo&show_icons=true&theme=nightowl&locale=en" alt="mrliputo" /></p>
 
