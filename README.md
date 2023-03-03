@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @mrliputo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JAVA,React-Native,Golang Project
+- 🌱 I’m currently learning DevOps and Platform optimize
+- 💞️ I’m looking to collaborate on Payo-API-V2
 - 📫 How to reach me ...
 
 
-# 👋 Hi, I'm Mrliputo
+ 
 
  
  
