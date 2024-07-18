@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo)](https://github.com/mrliputo)
 
 # 👋 Hi, I'm Mrliputo
 - 👀 I’m interested in JAVA,React-Native, ReactJs, Golang Project
