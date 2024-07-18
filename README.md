@@ -1,10 +1,12 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 👋 Hi, I'm Mrliputo
 - 👀 I’m interested in JAVA,React-Native, ReactJs, Golang Project
 - 🌱 I’m currently learning DevOps and Platform optimize
 - 💞️ I’m looking to collaborate on Payo-API-V2
 - 📫 U can contact me at X (twitter) : [@mrliputo](https://x.com/mrliputo)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo)](https://github.com/ryo-ma/github-profile-trophy)
+
  
 
  
