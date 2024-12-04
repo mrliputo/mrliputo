@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo&theme=matrix)](https://github.com/mrliputo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrliputo&theme=matrix&margin-w=10&rank=-?&column=8)](https://github.com/mrliputo)
 
 # 👋 Hi, I'm Mrliputo
 - 👀 I’m interested in JAVA,React-Native, ReactJs, Golang Project
@@ -8,13 +8,10 @@
 
 
  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=mrliputo&show_icons=true&theme=nightowl&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrliputo&show_icons=true&locale=en&layout=compact&theme=nightowl) |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 
  
- 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mrliputo&show_icons=true&theme=nightowl&locale=en" alt="mrliputo" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrliputo&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mrliputo" /></p>
-
 <!---
 mrliputo/mrliputo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
